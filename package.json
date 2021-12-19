@@ -1,0 +1,22 @@
+{
+  "name": "ferrero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuamvstco/Ferrero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuamvstco/Ferrero/issues"
+  },
+  "homepage": "https://github.com/joshuamvstco/Ferrero#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
